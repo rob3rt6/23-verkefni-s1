@@ -1,6 +1,9 @@
 # Námsefni og sýnidæmi
 
-[Uppsetning vefþróunarsvæðis](https://github.com/vefgrunnur/namsefni/wiki/Undirbuningur)
+- [Uppsetning vefþróunarsvæðis](https://github.com/vefgrunnur/namsefni/wiki/Undirbuningur)
+- [Bjargir](https://github.com/vefgrunnur/Namsefni/wiki)
+
+---
 
 1. námsefni, [HTML og CSS](Verkefni-1/README.md)
 1. námsefni, [Box módelið](Verkefni-2/README.md)
