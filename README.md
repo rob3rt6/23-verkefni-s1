@@ -1,0 +1,2 @@
+# Namsefni
+Námsefni og sýnidæmi
