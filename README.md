@@ -12,3 +12,7 @@
 1. námsefni. [Myndvinnsla](Namsefni-5/README.md)
 1. námsefni. [Leturfræði](Namsefni-6/README.md)
 1. námsefni. [Lokaverkefni](Namsefni-7/README.md)
+
+---
+
+![RWD](img/Responsive-Web-Design.jpg)

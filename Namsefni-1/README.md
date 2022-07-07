@@ -40,7 +40,7 @@ ________________________________________________________
 
 # CSS stílsetning
 
-![css selector](img/selector.gif)
+![css selector](selector.gif)
 
 Valtag (_selector_) bendir á HTML þáttinn (_element_) sem þú vilt stíla.
 
