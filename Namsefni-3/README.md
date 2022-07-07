@@ -12,15 +12,16 @@
 ### Viðmið (_Breakpoints_) - "_Mobile up_"
 
 ```CSS
-
+/* Fyrst koma stílar sem gilda í öllum skjástærðum ss. leturtýpa og litir */
 body {
-background-color: blue;
+background-color: lightblue;
+font-family: sans-serif;
 color: white;
 }
 
 @media only screen and (min-width: 37.5em) {  /* skjáir (screen) sem eru stærri en 37.5em (600px) */
   body {
-    background-color: lightblue;
+    background-color: blue;
   }
 }
 
