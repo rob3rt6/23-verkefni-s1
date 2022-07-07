@@ -1,6 +1,6 @@
 # Uppsetning HTML vefsíðu 
 
-(*án innihalds*)
+Þú getur notað textann [verkefni-1-texti](verkefni-1-texti.md) í uppsetningu vefsíðunnar.
 
 ```HTML
 
