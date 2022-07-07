@@ -1,6 +1,6 @@
 # Box Model
 
-![Boxmodel](img/box-model.png)
+![Boxmodel](V-21-22/box-model.png)
 
 Explanation of the different parts:
 
