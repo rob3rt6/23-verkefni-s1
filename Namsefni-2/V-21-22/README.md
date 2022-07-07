@@ -1,5 +1,7 @@
 #### Verkefni 2.1
 
+![box model](box-model.png)
+
 https://www.w3schools.com/css/css_boxmodel.asp
 
 ---
