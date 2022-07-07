@@ -1,6 +1,6 @@
 # Skipulag vefsíðu - webpage layout
 
-Í verkefni 3.1 getur þú afritað [index.html](index.html) vefsíðuna yfir í áfangageymsluna þína. Stílsíðuna býrðu til sjálfur og í verkenfi 3.2 setur þú upp vefsíðu og stílsíðu. Innihald vefsíðunnar er svokallaður _"dummy"_ texti sem hægt er að afrita héðan: [Lorem Ipsum](https://lipsum.com/)
+Í verkefni 3.1 getur þú afritað [index.html](index.html) vefsíðuna yfir í áfangageymsluna þína. Stílsíðuna býrðu til sjálfur og í verkefni 3.2 setur þú upp vefsíðu og stílsíðu. Innihald vefsíðunnar er svokallaður _"dummy"_ texti sem hægt er að afrita héðan: [Lorem Ipsum](https://lipsum.com/)
 
 ### HTML 5 ritháttur (_semantic_)
 
