@@ -4,7 +4,7 @@
 
 ### HTML 5 ritháttur (_semantic_)
 
-* [Semantic HTML5 Elements](https://www.w3schools.com/html/html5_semantic_elements.asp))
+* [Semantic HTML5 Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [Moz:lla glósur](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
 # Svegjanleg hönnun
