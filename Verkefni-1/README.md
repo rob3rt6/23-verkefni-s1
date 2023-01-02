@@ -71,7 +71,7 @@ dæmi:
 1.	Nú getur þú birt verkefnin á eigin vefsíðu.
 1.	Skilaðu tengli (_link_) í Innu sem vísar á vefsíðuna þína
 
-* Sýnidæmi: https://vefgrunnur.github.io/synidaemi/verkefni-2/
+* Sýnidæmi: https://vefgrunnur.github.io/synidaemi/verkefni-1/
 
 ---
 
