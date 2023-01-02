@@ -123,7 +123,7 @@ div {
 
 ## Box Modelið
 
-![Boxmodel](V-21-22/box-model.png)
+![Boxmodel](Box model/box-model.png)
 
 Explanation of the different parts:
 

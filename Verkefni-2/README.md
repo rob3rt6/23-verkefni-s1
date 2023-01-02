@@ -2,15 +2,25 @@
 
 ### Markmið:
 
-Nemendur eiga að öðlast skilning á hvað HTML ívafsmálið stendur fyrir og hvernig hægt er að stjórna útliti vefsíðu með CSS stílsíðu.# BOX modelið
+Nemendur eiga að öðlast skilning á hvað HTML ívafsmálið stendur fyrir og hvernig hægt er að stjórna útliti vefsíðu með CSS stílsíðu.
 
-Nemendur eiga að öðlast skilning á eiginleikum HTML taga og hvaða áhrif _display:_ eigindið hefur á uppbyggingu þeirra.
+Nemendur eiga að öðlast skilning á uppbyggingu HTML taga, hvernig box módelið virkar og hvaða áhrif _display:_ eigindið hefur á uppbyggingu þeirra.
 
-* [Verkefnalýsing 2](Verkefni_2.pdf)
-* [Námsefni 2.1 og 2.2](https://github.com/vefgrunnur/Namsefni/tree/main/Namsefni-2/V-21-22/)
-* [Fylgigögn 2.3](https://github.com/vefgrunnur/Namsefni/tree/main/Namsefni-2/V-23)
-* [Fylgigögn 2.4](https://github.com/vefgrunnur/Namsefni/tree/main/Namsefni-2/V-24)
+### Verkefnalýsing
 
-#### Afritið og notið fylgigögnin í verkefni 2.3 og 2.4
+Búðu til HTML vefsíðu og settu viðeigandi HTML tög utan um textann sem þú ert búin að finna til úr 1. verkefni. Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.
+
+```
+<H1> til <H6>, <p>, <em>, <strong>, <sub>, <sup>, <ul>, <ol>, <li>, <blockqoute>, <br> og <hr> 
+```
+
+### Námsefni
+
+* [HTML - CSS lesefni](Namsefni-2/HTML-CSS/)
+* [Box módelið](Namsefni-2/README.md)
+
+#### Skil
+
+Öllum gögnum er skilað í verkefnageymsluna þína í Github. Tengill á verkefnið er skilað í Innu.
 
 #### Einkunn verður birt í Innu
