@@ -24,8 +24,8 @@ Nemendur eiga að stofna vefumsjónarkerfi með Visual Studio Code og Github.
 
 1. Við skráningu Github reiknings verður að koma **skýrt fram hver er eigandinn**. Námsaðstoð fer í gegnum Github verkefnageymslu (_repository_) og þá er mikilvægt að kennari geti séð hver er eigandi reiknings. Kennari getur hafnað reikningi ef það er ekki gert.
     * Í **Stillingar (_Settings_)** er skráð fullt nafn.
-1. Eftir nýskráningu færðu tölvupóst frá Github þar sem beðið er um staðfestingu (_confirm your email account_) á að þú sért að stofna reikninginn. Með skólapóstfanginu færðu [tölvupósthólf](https://outlook.office.com/mail/) til að geta svarað póstinum. 
-1. Bættu við tölvupóstfanginu í **Profile -> Settings -> Emails** í Github reikningi þínum 
+1. Eftir nýskráningu færðu tölvupóst frá Github þar sem beðið er um staðfestingu (_confirm your email account_) á að þú sért að stofna reikninginn. 
+3. Bættu við tölvupóstfanginu í **Profile -> Settings -> Emails** í Github reikningi þínum 
 
 ### Vinnulag og verkefnaskil
 
