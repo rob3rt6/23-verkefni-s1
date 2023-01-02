@@ -5,9 +5,9 @@ Nemendur eiga að stofna vefumsjónarkerfi með Visual Studio Code og Github.
 
 - Undirbúningur og innsetning forrita
 - Nýskráning Github reiknings
+- Vinnulag og verkefnaskil
 
-
-# Undirbúningur og innsetning forrita
+### Undirbúningur og innsetning forrita
 
 1. Byrjum á að hlaða inn [Visual Studio Code](https://code.visualstudio.com/) og setjum það inn (_install_) í tölvuna okkar
 2. Í Windows PC hlöðum við inn skipanalínuforritinu [GIT BASH](https://git-scm.com/) og setjum það í tölvuna, munið að velja [_Visual Studio Code as default editor_](https://vefgrunnur.github.io/verkefnaskil/git_innsetning.html)
@@ -33,6 +33,9 @@ Nemendur verða að vera með Github reikning (_Github user account_)
 
 1. Í Innu, verkefni 1 skilar þú nafni reikningsins (_Github username_)
 1. Þú stofnar verkefnageymslu á Github reikningnum þínum. Það er hægt að vinna verkefni beint í Github geymslunni en það er ekki skynsamlegt.  Best er að afrita verkefnageymsluna yfir á þína tölvu, vinna verkefnin og skila síðan jafnóðum.
+1. [Náðu í geymsluna yfir í þína tölvu](https://vefgrunnur.github.io/verkefnaskil/git_verklag.html)
+1. Opnaðu Visual Studio Code, veldu **"File -> "Open folder"** og vísaðu VSC á Verkefnageymsluna þína 
+1. Núna ertu tilbúinn að vinna í verkefnum áfangans.
 
 ```
 
@@ -47,21 +50,16 @@ Staðvært umhverfi (local environment) = tölvan þín.
    
 ```
 
-1. [Náðu í geymsluna yfir í þína tölvu](https://vefgrunnur.github.io/verkefnaskil/git_verklag.html)
-2. Opnaðu Visual Studio Code, veldu **"File -> "Open folder"** og vísaðu VSC á Verkefnageymsluna þína 
-3. Núna ertu tilbúinn að vinna í verkefnum áfangans.
 
-
-
-## Hönnun vefsíðu á (notandi).github.io  
+## Uppsetning vefsíðu á (notandi).github.io  
 
 Github býður viðskiptavinum sínum að búa til vef sem tengist reikningi þeirra. Eina sem þarf að gera er að virkja veftenginguna í Github notendastillingum (Settings). 
 
 dæmi:  
 1.	Gitub reikningur: **Notandi** 
 1.	heiti geymslu: **notandi**.github.io
-1.	Í geymslunni ferðu í **stillingar (settings)** og velur **Pages**
-Github býr til tengingu á milli geymslunnar og vefsvæðis á github.io 
+1.	Í valslá ferðu í **Settings)** og velur **Pages**
+1. Síðan velur þú "Branch": **Main**. Github býr til tengingu á milli geymslunnar og vefsvæðis þins á github.io 
 1.	Nú getur þú birt verkefnin á eigin vefsíðu.
 
 
