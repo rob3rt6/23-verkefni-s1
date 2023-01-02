@@ -5,11 +5,11 @@ Nemendur eiga að stofna vefumsjónarkerfi með Visual Studio Code og Github.
 
 ### Námsmat 12%
 
-- Innsetning forrita 3%
-- Nýskráning Github reiknings 3%
-- Vinnulag og verkefnaskil 3%
-- Uppsetning vefsíðu 3%
-
+- Innsetning forrita 2%
+- Nýskráning Github reiknings 2%
+- Vinnulag og verkefnaskil 2%
+- Uppsetning vefsíðu 2%
+- Efnisval og gagnasöfnun 4%
 ---
 
 ### Innsetning forrita
@@ -70,6 +70,17 @@ dæmi:
 1. Síðan velur þú "Branch": **Main**. Github býr til tengingu á milli geymslunnar og vefsvæðis þins á github.io 
 1.	Nú getur þú birt verkefnin á eigin vefsíðu.
 1.	Skilaðu tengli (_link_) í Innu sem vísar á vefsíðuna þína
+
+---
+
+## Efnisval og gagnasöfnun
+
+### Þema: Tónlist
+
+   * Tónslistarumfjöllun er hægt að þætta niður í tónlistarstefnur (genre) og eftir tímabilum
+   * Það er hægt að fjalla um hljómsveit eða einstakan listamann
+   * Nemendur finna texta, ljósmyndir, tónlist og video sem þarf að vinna og skila eftir verkefnalýsingum áfangans. Engin á að fjalla um sama efni. 
+
 
 <!--
 Github vefsíður eru "Static" og bjóða ekki upp á neina gagnvirkni við notendur en það er hægt að kalla fram gagnvirka vefsíðu í &lt;iframe> glugga í Github vef, sjá  [dæmi um póstform hér](https://dev.to/charalambosioannou/create-a-static-webpage-with-a-contact-form-on-github-pages-3532)
