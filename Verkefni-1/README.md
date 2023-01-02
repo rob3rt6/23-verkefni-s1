@@ -34,11 +34,11 @@ Nemendur eiga að stofna vefumsjónarkerfi með Visual Studio Code og Github.
 1. Til að kennari geti haft aðgang að verkefnageymslunni þarf að opna aðgang fyrir hann
    * Farðu í _Settings_ og þar velur þú _Collaborators and teams_ 
    * Veldu _Add peoble_ og skráðu notandanafn kennara (t.d. GJG) og síðan veluru _"Add this member to this repository"_
-1. Það er hægt að vinna verkefni beint í Github geymslunni en það er ekki skynsamlegt.  Best er að afrita verkefnageymsluna yfir á þína tölvu, vinna verkefnin og skila síðan jafnóðum.[Náðu í geymsluna yfir í þína tölvu](https://vefgrunnur.github.io/verkefnaskil/git_verklag.html)
+1. Það er hægt að vinna verkefni beint í Github geymslunni en það er ekki skynsamlegt.  Best er að afrita verkefnageymsluna yfir á þína tölvu, vinna verkefnin og skila síðan jafnóðum.  [Náðu í geymsluna yfir í þína tölvu](https://vefgrunnur.github.io/verkefnaskil/git_verklag.html)
 1. Opnaðu Visual Studio Code, veldu **"File -> "Open folder"** og vísaðu VSC á Verkefnageymsluna þína 
 1. Núna ertu tilbúinn að vinna í verkefnum áfangans.
 1. Í Innu, verkefni 1 skilar þú nafni reikningsins (_Github username_)
-1. 
+1.  
 
 ```
 
