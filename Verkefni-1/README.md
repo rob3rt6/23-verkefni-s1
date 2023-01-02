@@ -3,10 +3,12 @@
 ### Markmið:
 Nemendur eiga að stofna vefumsjónarkerfi með Visual Studio Code og Github. 
 
-- Innsetning forrita
-- Nýskráning Github reiknings
-- Vinnulag og verkefnaskil
-- Uppsetning vefsíðu
+### Námsmat 12%
+
+- Innsetning forrita 3%
+- Nýskráning Github reiknings 3%
+- Vinnulag og verkefnaskil 3%
+- Uppsetning vefsíðu 3%
 
 ### Innsetning forrita
 
