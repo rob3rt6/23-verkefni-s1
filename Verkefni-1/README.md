@@ -1,7 +1,8 @@
 # Verkefni 1. Undirbúningur 
 
 ### Markmið:
-Nemendur eiga að stofna vefumsjónarkerfi með Visual Studio Code og Github. 
+- Nemendur stofna vefumsjónarkerfi með Visual Studio Code og Github. 
+- Nemendur finna umfjöllunarefni sem notað verður í verkefnavinnunni
 
 ### Námsmat 12%
 
@@ -15,20 +16,20 @@ Nemendur eiga að stofna vefumsjónarkerfi með Visual Studio Code og Github.
 ### Innsetning forrita
 
 1. Byrjum á að hlaða inn [Visual Studio Code](https://code.visualstudio.com/) og setjum það inn (_install_) í tölvuna okkar
-2. Í Windows PC hlöðum við inn skipanalínuforritinu [GIT BASH](https://git-scm.com/) og setjum það í tölvuna, munið að velja [_Visual Studio Code as default editor_](https://vefgrunnur.github.io/verkefnaskil/git_innsetning.html)
-3. GIT er til í Linux og Macintosh tölvum og við notum skipanalínuforritið "_Terminal_" til að framkvæma GIT skipanir
+1. Í Windows PC hlöðum við inn skipanalínuforritinu [GIT BASH](https://git-scm.com/) og setjum það í tölvuna, munið að velja [_Visual Studio Code as default editor_](https://vefgrunnur.github.io/verkefnaskil/git_innsetning.html)
+1. GIT er til í Linux og Macintosh tölvum og við notum skipanalínuforritið "_Terminal_" til að framkvæma GIT skipanir
 
 ---
 
 ### Nýskráning Github reiknings
 
-* Nemendur verða að vera með Github reikning (_Github user account_)
-* Til að stofna Github reikning verður þú að vera með tölvupóstfang (_E-mail account_). Þú getur notað skólapóstfang sem þér er úthlutað við innskráningu í Tækniskólann. [Hér eru leiðbeiningar á vef Tækniskólans um hvernig nemendur fá skólapóstfang](https://tskoli.is/nethjalp/um-skolanetfang/). Með því að nota skólapóstfangið getur þú fengið [Github Student Developer Pack](Namsefni-1/GithubStudentDeveloperPack.md) sem getur nýst þér vel í námi á tölvubraut.
+- Nemendur verða að vera með Github reikning (_Github user account_)
+- Til að stofna Github reikning verður þú að vera með tölvupóstfang (_E-mail account_). Þú getur notað skólapóstfang sem þér er úthlutað við innskráningu í Tækniskólann. [Hér eru leiðbeiningar á vef Tækniskólans um hvernig nemendur fá skólapóstfang](https://tskoli.is/nethjalp/um-skolanetfang/). Með því að nota skólapóstfangið getur þú fengið [Github Student Developer Pack](Namsefni-1/GithubStudentDeveloperPack.md) sem getur nýst þér vel í námi á tölvubraut.
 
 1. Við skráningu Github reiknings verður að koma **skýrt fram hver er eigandinn**. Námsaðstoð fer í gegnum Github verkefnageymslu (_repository_) og þá er mikilvægt að kennari geti séð hver er eigandi reiknings. Kennari getur hafnað reikningi ef það er ekki gert.
     * Í **Stillingar (_Settings_)** er skráð fullt nafn.
 1. Eftir nýskráningu færðu tölvupóst frá Github þar sem beðið er um staðfestingu (_confirm your email account_) á að þú sért að stofna reikninginn. 
-3. Bættu við tölvupóstfanginu í **Profile -> Settings -> Emails** í Github reikningi þínum 
+1. Bættu við tölvupóstfanginu í **Profile -> Settings -> Emails** í Github reikningi þínum 
 
 ---
 
@@ -79,9 +80,9 @@ Nemendur finna texta, ljósmyndir, tónlist og video sem þarf að vinna og skil
 
 ### Þema: Tónlist
 
-   * Tónslistarstefna þar sem fjallað um þróun tónlistar eftir tímabilum og listamönnum sem hafa mótað hana
-   * Umfjöllun um hljómsveit eða einstakan listamann, ferilskrá, frægð og hversvegna lögin þeirra urðu vinsæl
-   * Tilgreindu hvaða efni þú ætlar að vinna með í áfanganum í README skránni sem þú skilar í github.io 
+- Tónslistarstefna þar sem fjallað um þróun tónlistar eftir tímabilum og listamönnum sem hafa mótað hana
+- Umfjöllun um hljómsveit eða einstakan listamann, ferilskrá, frægð og hversvegna lögin þeirra urðu vinsæl
+- Tilgreindu hvaða efni þú ætlar að vinna með í áfanganum í README skránni sem þú skilar í github.io 
    
    #### Engin á að fjalla um sama efni. 
 
