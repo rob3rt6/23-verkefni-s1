@@ -3,7 +3,8 @@
 1. verkefni. [Uppsetning vefþróunarsvæðis](Verkefni-1/)
 1. verkefni. [HTML - CSS og Box módelið](Verkefni-2/)
 
-Verkefni 3 - 7 eru í vinnslu
+### Athugið að verkefni 3 - 7 eru í vinnslu
+
 <!--
 1. verkefni. [Skipulag vefsíðu](Verkefni-3/README.md)
 1. verkefni. [Efnisyfirlit og listar](Verkefni-4/README.md)
