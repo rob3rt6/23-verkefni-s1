@@ -75,14 +75,15 @@ dæmi:
 
 ## Efnisval og gagnasöfnun
 
+Nemendur finna texta, ljósmyndir, tónlist og video sem þarf að vinna og skila eftir verkefnalýsingum áfangans. Nemendur bæta og breyta efni vefsins eftir því sem þurfa þykir út alla spönnina.
+
 ### Þema: Tónlist
 
    * Tónslistarstefna þar sem fjalla um þróun tónlistar eftir tímabilum og listamönnum sem hafa mótað stefnuna
    * Umfjöllun um hljómsveit eða einstakan listamann, ferilskrá, frægð og hvernig vinsæl lög voru samin
-   * Nemendur finna texta, ljósmyndir, tónlist og video sem þarf að vinna og skila eftir verkefnalýsingum áfangans. 
+   * 
    
    #### Engin á að fjalla um sama efni. 
-
 
 <!--
 Github vefsíður eru "Static" og bjóða ekki upp á neina gagnvirkni við notendur en það er hægt að kalla fram gagnvirka vefsíðu í &lt;iframe> glugga í Github vef, sjá  [dæmi um póstform hér](https://dev.to/charalambosioannou/create-a-static-webpage-with-a-contact-form-on-github-pages-3532)
