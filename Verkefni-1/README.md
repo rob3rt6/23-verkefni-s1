@@ -66,7 +66,7 @@ Github býður viðskiptavinum sínum að búa til vef sem tengist reikningi þe
 
 dæmi:  
 1.	Gitub reikningur: **Notandi** 
-1.	heiti geymslu: **notandi**.github.io
+1.	heiti geymslu: **notandi.github.io**
 1.	Í valslá ferðu í **Settings)** og velur **Pages**
 1. Síðan velur þú "Branch": **Main**. Github býr til tengingu á milli geymslunnar og vefsvæðis þins á github.io 
 1.	Nú getur þú birt verkefnin á eigin vefsíðu.
