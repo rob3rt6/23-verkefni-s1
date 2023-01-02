@@ -6,8 +6,7 @@ Nemendur eiga að öðlast skilning á hvað HTML ívafsmálið stendur fyrir og
 
 ### Námsmat 12%
 
-- HTML vefsíða
-
+- HTML vefsíða 
 - CSS stílsíða
 
 
@@ -20,10 +19,9 @@ Nemendur eiga að öðlast skilning á hvað HTML ívafsmálið stendur fyrir og
 <H1> til <H6>, <p>, <em>, <strong>, <sub>, <sup>, <ul>, <ol>, <li>, <blockqoute>, <br> og <hr> 
 ```
 2. Búðu til stílsíðu (Cascading Style Sheet) og tengdu hana við html síðuna. Settu stíla á tögin. Þú notar eigin texta og getur valið aðra liti en hér eru sýndir.  
+ Heildarbreidd vefsíðunnar á að vera **50em** (800px) og hún á að vera miðjusett í skjáum sem eru stærri en 50em.
 
-3. Heildarbreidd vefsíðunnar á að vera **50em** (800px) og hún á að vera miðjusett í skjáum sem eru stærri en 50em.
-
-* Sýnidæmi: 
+* Sýnidæmi: https://vefgrunnur.github.io/synidaemi/verkefni-2/
 
 ### Námsefni
 
