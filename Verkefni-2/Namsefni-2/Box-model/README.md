@@ -56,11 +56,11 @@ Examples of inline elements:
 
 ## Display: none;
 
-display: none; is commonly used with JavaScript to hide and show elements without deleting and recreating them. Take a look at our last example on this page if you want to know how this can be achieved.
+display: none; is commonly used with JavaScript to hide and show elements without deleting and recreating them. 
 
 The &lt;script> element uses display: none; as default. 
 
 Heimild: 
 * https://www.w3schools.com/css/css_boxmodel.asp
-+ https://www.w3schools.com/cssref/pr_class_display.asp
+* https://www.w3schools.com/cssref/pr_class_display.asp
 
