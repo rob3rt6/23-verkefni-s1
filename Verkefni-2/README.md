@@ -1,6 +1,9 @@
-# BOX modelið
+# HTML og CSS
 
 ### Markmið:
+
+Nemendur eiga að öðlast skilning á hvað HTML ívafsmálið stendur fyrir og hvernig hægt er að stjórna útliti vefsíðu með CSS stílsíðu.# BOX modelið
+
 Nemendur eiga að öðlast skilning á eiginleikum HTML taga og hvaða áhrif _display:_ eigindið hefur á uppbyggingu þeirra.
 
 * [Verkefnalýsing 2](Verkefni_2.pdf)
