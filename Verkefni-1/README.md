@@ -49,7 +49,6 @@
 ```
 
 Github.com/notendanafnið þitt
-   |___ .gitignore
    |___ README.md
    |___ vef1vg (verkefnageymsla - repository)
 
