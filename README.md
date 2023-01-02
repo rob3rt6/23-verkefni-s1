@@ -19,8 +19,7 @@
 
 ---
 
-- [Uppsetning vefþróunarsvæðis](https://github.com/vefgrunnur/namsefni/wiki/Undirbuningur)
-- [Bjargir](https://github.com/vefgrunnur/Namsefni/wiki)
+#### [Bjargir](https://github.com/vefgrunnur/Namsefni/wiki)
 
 ---
 
