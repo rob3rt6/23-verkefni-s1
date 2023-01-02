@@ -2,9 +2,6 @@
 
 ![box model](box-model.png)
 
-https://www.w3schools.com/css/css_boxmodel.asp
-
-
 Explanation of the different parts:
 
 - Content - The content of the box, where text and images appear
@@ -14,7 +11,7 @@ Explanation of the different parts:
 
 The box model allows us to add a border around elements, and to define space between elements. 
 
-#### Display eigindið
+## Display eigindið
 
 ```CSS
 
@@ -63,5 +60,7 @@ display: none; is commonly used with JavaScript to hide and show elements withou
 
 The &lt;script> element uses display: none; as default. 
 
-Heimild: https://www.w3schools.com/cssref/pr_class_display.asp
+Heimild: 
+* https://www.w3schools.com/css/css_boxmodel.asp
++ https://www.w3schools.com/cssref/pr_class_display.asp
 
