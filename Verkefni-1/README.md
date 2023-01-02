@@ -8,7 +8,7 @@ Nemendur eiga að stofna vefumsjónarkerfi með Visual Studio Code og Github.
 - Vinnulag og verkefnaskil
 - Uppsetning vefsíðu
 
-### innsetning forrita
+### Innsetning forrita
 
 1. Byrjum á að hlaða inn [Visual Studio Code](https://code.visualstudio.com/) og setjum það inn (_install_) í tölvuna okkar
 2. Í Windows PC hlöðum við inn skipanalínuforritinu [GIT BASH](https://git-scm.com/) og setjum það í tölvuna, munið að velja [_Visual Studio Code as default editor_](https://vefgrunnur.github.io/verkefnaskil/git_innsetning.html)
@@ -19,7 +19,7 @@ Nemendur eiga að stofna vefumsjónarkerfi með Visual Studio Code og Github.
 
 * Nemendur verða að vera með Github reikning (_Github user account_)
 * Til að stofna Github reikning verður þú að vera með tölvupóstfang (_E-mail account_)
-* Þú getur Notað skólapóstfang sem þér er úthlutað við innskráningu í Tækniskólann. [Hér eru leiðbeiningar á vef Tækniskólans um hvernig nemendur fá skólapóstfang](https://tskoli.is/nethjalp/um-skolanetfang/). Með því að nota skólapóstfangið getur þú fengið **Github Student Developer Pack** þar sem t.d. er hægt að fá ókeypis aðgang að gagnvirkum vefþjóni (_interactive web server_), sjá nánar hér neðar á síðunni.
+* Þú getur Notað skólapóstfang sem þér er úthlutað við innskráningu í Tækniskólann. [Hér eru leiðbeiningar á vef Tækniskólans um hvernig nemendur fá skólapóstfang](https://tskoli.is/nethjalp/um-skolanetfang/). Með því að nota skólapóstfangið getur þú fengið [Github Student Developer Pack](Namsefni-1/GithubStudentDeveloperPack.md) sem getur nýst þér vel í námi á tölvubraut.
 
 1. Við skráningu Github reiknings verður að koma **skýrt fram hver er eigandinn**. Námsaðstoð fer í gegnum Github verkefnageymslu (_Classroom repository_) og þá er mikilvægt að kennari geti séð hver er eigandi reiknings. Kennari getur hafnað reikningi ef það er ekki gert.
     * Í **Stillingar (_Settings_)** er skráð fullt nafn.
