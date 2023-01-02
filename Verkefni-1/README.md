@@ -79,8 +79,8 @@ Nemendur finna texta, ljósmyndir, tónlist og video sem þarf að vinna og skil
 
 ### Þema: Tónlist
 
-   * Tónslistarstefna þar sem fjalla um þróun tónlistar eftir tímabilum og listamönnum sem hafa mótað stefnuna
-   * Umfjöllun um hljómsveit eða einstakan listamann, ferilskrá, frægð og hvernig vinsæl lög voru samin
+   * Tónslistarstefna þar sem fjallað um þróun tónlistar eftir tímabilum og listamönnum sem hafa mótað hana
+   * Umfjöllun um hljómsveit eða einstakan listamann, ferilskrá, frægð og hversvegna lögin þeirra urðu vinsæl
    * 
    
    #### Engin á að fjalla um sama efni. 
