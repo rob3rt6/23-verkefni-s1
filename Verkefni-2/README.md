@@ -2,9 +2,15 @@
 
 ### Markmið:
 
-Nemendur eiga að öðlast skilning á hvað HTML ívafsmálið stendur fyrir og hvernig hægt er að stjórna útliti vefsíðu með CSS stílsíðu.
+Nemendur eiga að öðlast skilning á hvað HTML ívafsmálið stendur fyrir og hvernig hægt er að stjórna útliti vefsíðu með CSS stílsíðu. Hvernig box módelið virkar og hvaða áhrif _display:_ eigindið hefur á tög.
 
-Nemendur eiga að öðlast skilning á uppbyggingu HTML taga, hvernig box módelið virkar og hvaða áhrif _display:_ eigindið hefur á uppbyggingu þeirra.
+### Námsmat 12%
+
+- HTML vefsíða
+
+- CSS stílsíða
+
+
 
 ### Verkefnalýsing
 
