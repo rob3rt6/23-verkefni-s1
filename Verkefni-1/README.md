@@ -63,6 +63,7 @@ dæmi:
 1.	Í valslá ferðu í **Settings)** og velur **Pages**
 1. Síðan velur þú "Branch": **Main**. Github býr til tengingu á milli geymslunnar og vefsvæðis þins á github.io 
 1.	Nú getur þú birt verkefnin á eigin vefsíðu.
+1.	Skilaðu tengli (_link_) í Innu sem vísar á vefsíðuna þína
 
 
 <hr>
