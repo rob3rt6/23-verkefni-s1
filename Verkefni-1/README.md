@@ -10,6 +10,8 @@ Nemendur eiga að stofna vefumsjónarkerfi með Visual Studio Code og Github.
 - Vinnulag og verkefnaskil 3%
 - Uppsetning vefsíðu 3%
 
+---
+
 ### Innsetning forrita
 
 1. Byrjum á að hlaða inn [Visual Studio Code](https://code.visualstudio.com/) og setjum það inn (_install_) í tölvuna okkar
