@@ -6,8 +6,10 @@ Nemendur eiga að öðlast skilning á hvað HTML ívafsmálið stendur fyrir og
 
 ### Námsmat 12%
 
-- HTML vefsíða 
-- CSS stílsíða
+- HTML vefsíða 3%
+- CSS stílsíða 3%
+- Box módelið 3%
+- CSS Display 3%
 
 
 
