@@ -3,15 +3,36 @@
 ### Markmið:
 Nemendur eiga að stofna vefumsjónarkerfi með Visual Studio Code og Github. 
 
-* [Verkefnalýsing](Verkefni_1.pdf)
-* [Fylgigögn](https://github.com/vefgrunnur/Namsefni/tree/main/Namsefni-1)
+- Undirbúningur og innsetning forrita
+- Nýskráning Github reiknings
 
-#### Einkunn verður birt í Innu
 
-1. Þú verður að vera með reikning (_Account_) á [Github](https://github.com/join) 
+# Undirbúningur og innsetning forrita
+
+1. Byrjum á að hlaða inn [Visual Studio Code](https://code.visualstudio.com/) og setjum það inn (_install_) í tölvuna okkar
+2. Í Windows PC hlöðum við inn skipanalínuforritinu [GIT BASH](https://git-scm.com/) og setjum það í tölvuna, munið að velja [_Visual Studio Code as default editor_](https://vefgrunnur.github.io/verkefnaskil/git_innsetning.html)
+3. GIT er til í Linux og Macintosh tölvum og við notum skipanalínuforritið "_Terminal_" til að framkvæma GIT skipanir
+4. Opnið GIT Bash/Terminal og skráum notanda og tölvupóstfang í [$ git config --global](https://vefgrunnur.github.io/verkefnaskil/git_innsetning.html)
+
+
+### Nýskráning Github reiknings
+
+Nemendur verða að vera með Github reikning (_Github user account_)
+
+* Til að stofna Github reikning verður þú að vera með tölvupóstfang (_E-mail account_)
+* Notaðu skólapóstfang sem þér er úthlutað við innskráningu í Tækniskólann. [Hér eru leiðbeiningar á vef Tækniskólans um hvernig nemendur fá skólapóstfang](https://tskoli.is/nethjalp/um-skolanetfang/). Með því að nota skólapóstfangið getur þú fengið **Github Student Developer Pack** þar sem t.d. er hægt að fá ókeypis aðgang að gagnvirkum vefþjóni (_interactive web server_), sjá nánar hér neðar á síðunni.
+
+1. Við skráningu Github reiknings verður að koma **skýrt fram hver er eigandinn**. Námsaðstoð fer í gegnum Github verkefnageymslu (_Classroom repository_) og þá er mikilvægt að kennari geti séð hver er eigandi reiknings. Kennari getur hafnað reikningi ef það er ekki gert.
+    * Í **Stillingar (_Settings_)** er skráð fullt nafn.
+2. Eftir nýskráningu færðu tölvupóst frá Github þar sem beðið er um staðfestingu (_confirm your email account_) á að þú sért að stofna reikninginn. Með skólapóstfanginu færðu [tölvupósthólf](https://outlook.office.com/mail/) til að geta svarað póstinum. 
+3. Bættu við tölvupóstfanginu í **Profile -> Settings -> Emails** í Github reikningi þínum 
+
+* [Github Student Developer Pack](Namsefmi-1/GithubStudentDeveloperPack.md)
+
+### Vinnulag og verkefnaskil
+
 1. Í Innu, verkefni 1 skilar þú nafni reikningsins (_Github username_)
-1. Þú stofnar verkefnageymslu á Github reikningnum þínum
-1. Það er hægt að vinna verkefni beint í Github geymslunni en það er ekki skynsamlegt.  Best er að afrita verkefnageymsluna yfir á þína tölvu, vinna verkefnin og skila síðan jafnóðum.
+1. Þú stofnar verkefnageymslu á Github reikningnum þínum. Það er hægt að vinna verkefni beint í Github geymslunni en það er ekki skynsamlegt.  Best er að afrita verkefnageymsluna yfir á þína tölvu, vinna verkefnin og skila síðan jafnóðum.
 
 ```
 
@@ -30,6 +51,8 @@ Staðvært umhverfi (local environment) = tölvan þín.
 2. Opnaðu Visual Studio Code, veldu **"File -> "Open folder"** og vísaðu VSC á Verkefnageymsluna þína 
 3. Núna ertu tilbúinn að vinna í verkefnum áfangans.
 
+
+
 ## Hönnun vefsíðu á (notandi).github.io  
 
 Github býður viðskiptavinum sínum að búa til vef sem tengist reikningi þeirra. Eina sem þarf að gera er að virkja veftenginguna í Github notendastillingum (Settings). 
@@ -43,7 +66,7 @@ Github býr til tengingu á milli geymslunnar og vefsvæðis á github.io
 
 
 <hr>
-
+<small>
 Github vefsíður eru "Static" og bjóða ekki upp á neina gagnvirkni við notendur en það er hægt að kalla fram gagnvirka vefsíðu í &lt;iframe> glugga í Github vef, sjá  [dæmi um póstform hér](https://dev.to/charalambosioannou/create-a-static-webpage-with-a-contact-form-on-github-pages-3532)
-
+</small>
 <hr>
