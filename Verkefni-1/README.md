@@ -34,7 +34,7 @@ Nemendur eiga að stofna vefumsjónarkerfi með Visual Studio Code og Github.
 
 ### Vinnulag og verkefnaskil
 
-1. Til að Git geti tengst við Github þá verður að skrá Github notandanafnið þitt og tölvupóstfang í [$ git config --global](https://vefgrunnur.github.io/verkefnaskil/git_innsetning.html) 
+1. Til að Git geti tengst við Github þá verður að skrá Github notandanafnið þitt og tölvupóstfang í GIT BASH (_terminal_) [$ git config --global](https://vefgrunnur.github.io/verkefnaskil/git_innsetning.html) 
 1. Þú stofnar verkefnageymslu (_Repository_) á Github reikningnum þínum. Geymslan á að vera lokuð **_"Privat"_**. Engin nema þú og kennarinn eiga að hafa aðgang að geymslunni
 1. Til að kennari geti haft aðgang að verkefnageymslunni þarf að opna aðgang fyrir hann
    * Farðu í _Settings_ og þar velur þú _Collaborators and teams_ 
