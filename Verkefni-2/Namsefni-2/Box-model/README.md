@@ -1,28 +1,9 @@
-#### Verkefni 2.1
+# Box módelið
 
 ![box model](box-model.png)
 
 https://www.w3schools.com/css/css_boxmodel.asp
 
----
-
-#### Verkefni 2.2
-
-```CSS
-
-.ex1 {display: none;}
-.ex2 {display: inline;}
-.ex3 {display: block;}
-.ex4 {display: inline-block;}
-
-```
-
-https://www.w3schools.com/cssref/pr_class_display.asp
-
----
-## Box Modelið
-
-![Boxmodel](Box model/box-model.png)
 
 Explanation of the different parts:
 
@@ -33,7 +14,16 @@ Explanation of the different parts:
 
 The box model allows us to add a border around elements, and to define space between elements. 
 
-# Display
+#### Display eigindið
+
+```CSS
+
+.ex1 {display: none;}
+.ex2 {display: inline;}
+.ex3 {display: block;}
+.ex4 {display: inline-block;}
+
+```
 
 ## Block-level Elements
 
@@ -72,4 +62,6 @@ Examples of inline elements:
 display: none; is commonly used with JavaScript to hide and show elements without deleting and recreating them. Take a look at our last example on this page if you want to know how this can be achieved.
 
 The &lt;script> element uses display: none; as default. 
+
+Heimild: https://www.w3schools.com/cssref/pr_class_display.asp
 
