@@ -16,6 +16,7 @@ Nemendur eiga að stofna vefumsjónarkerfi með Visual Studio Code og Github.
 2. Í Windows PC hlöðum við inn skipanalínuforritinu [GIT BASH](https://git-scm.com/) og setjum það í tölvuna, munið að velja [_Visual Studio Code as default editor_](https://vefgrunnur.github.io/verkefnaskil/git_innsetning.html)
 3. GIT er til í Linux og Macintosh tölvum og við notum skipanalínuforritið "_Terminal_" til að framkvæma GIT skipanir
 
+---
 
 ### Nýskráning Github reiknings
 
@@ -26,6 +27,8 @@ Nemendur eiga að stofna vefumsjónarkerfi með Visual Studio Code og Github.
     * Í **Stillingar (_Settings_)** er skráð fullt nafn.
 1. Eftir nýskráningu færðu tölvupóst frá Github þar sem beðið er um staðfestingu (_confirm your email account_) á að þú sért að stofna reikninginn. 
 3. Bættu við tölvupóstfanginu í **Profile -> Settings -> Emails** í Github reikningi þínum 
+
+---
 
 ### Vinnulag og verkefnaskil
 
@@ -52,6 +55,7 @@ Staðvært umhverfi (local environment) = tölvan þín.
    |___	vef1vg (verkefnageymsla - repository clone)
    
 ```
+---
 
 ## Uppsetning vefsíðu á (notandi).github.io  
 
@@ -65,9 +69,6 @@ dæmi:
 1.	Nú getur þú birt verkefnin á eigin vefsíðu.
 1.	Skilaðu tengli (_link_) í Innu sem vísar á vefsíðuna þína
 
-
-<hr>
-<small>
+<!--
 Github vefsíður eru "Static" og bjóða ekki upp á neina gagnvirkni við notendur en það er hægt að kalla fram gagnvirka vefsíðu í &lt;iframe> glugga í Github vef, sjá  [dæmi um póstform hér](https://dev.to/charalambosioannou/create-a-static-webpage-with-a-contact-form-on-github-pages-3532)
-</small>
-<hr>
+-->
