@@ -1,41 +1,39 @@
-# Verkefni 1. HTML og CSS
+# Verkefni 1. Undirbúningur 
 
 ### Markmið:
 Nemendur eiga að stofna vefumsjónarkerfi með Visual Studio Code og Github. 
 
-- Undirbúningur og innsetning forrita
+- Innsetning forrita
 - Nýskráning Github reiknings
 - Vinnulag og verkefnaskil
+- Uppsetning vefsíðu
 
-### Undirbúningur og innsetning forrita
+### innsetning forrita
 
 1. Byrjum á að hlaða inn [Visual Studio Code](https://code.visualstudio.com/) og setjum það inn (_install_) í tölvuna okkar
 2. Í Windows PC hlöðum við inn skipanalínuforritinu [GIT BASH](https://git-scm.com/) og setjum það í tölvuna, munið að velja [_Visual Studio Code as default editor_](https://vefgrunnur.github.io/verkefnaskil/git_innsetning.html)
 3. GIT er til í Linux og Macintosh tölvum og við notum skipanalínuforritið "_Terminal_" til að framkvæma GIT skipanir
-4. Opnið GIT Bash/Terminal og skráum notanda og tölvupóstfang í [$ git config --global](https://vefgrunnur.github.io/verkefnaskil/git_innsetning.html)
 
 
 ### Nýskráning Github reiknings
 
-Nemendur verða að vera með Github reikning (_Github user account_)
-
+* Nemendur verða að vera með Github reikning (_Github user account_)
 * Til að stofna Github reikning verður þú að vera með tölvupóstfang (_E-mail account_)
-* Notaðu skólapóstfang sem þér er úthlutað við innskráningu í Tækniskólann. [Hér eru leiðbeiningar á vef Tækniskólans um hvernig nemendur fá skólapóstfang](https://tskoli.is/nethjalp/um-skolanetfang/). Með því að nota skólapóstfangið getur þú fengið **Github Student Developer Pack** þar sem t.d. er hægt að fá ókeypis aðgang að gagnvirkum vefþjóni (_interactive web server_), sjá nánar hér neðar á síðunni.
+* Þú getur Notað skólapóstfang sem þér er úthlutað við innskráningu í Tækniskólann. [Hér eru leiðbeiningar á vef Tækniskólans um hvernig nemendur fá skólapóstfang](https://tskoli.is/nethjalp/um-skolanetfang/). Með því að nota skólapóstfangið getur þú fengið **Github Student Developer Pack** þar sem t.d. er hægt að fá ókeypis aðgang að gagnvirkum vefþjóni (_interactive web server_), sjá nánar hér neðar á síðunni.
 
 1. Við skráningu Github reiknings verður að koma **skýrt fram hver er eigandinn**. Námsaðstoð fer í gegnum Github verkefnageymslu (_Classroom repository_) og þá er mikilvægt að kennari geti séð hver er eigandi reiknings. Kennari getur hafnað reikningi ef það er ekki gert.
     * Í **Stillingar (_Settings_)** er skráð fullt nafn.
-2. Eftir nýskráningu færðu tölvupóst frá Github þar sem beðið er um staðfestingu (_confirm your email account_) á að þú sért að stofna reikninginn. Með skólapóstfanginu færðu [tölvupósthólf](https://outlook.office.com/mail/) til að geta svarað póstinum. 
-3. Bættu við tölvupóstfanginu í **Profile -> Settings -> Emails** í Github reikningi þínum 
-
-* [Github Student Developer Pack](Namsefmi-1/GithubStudentDeveloperPack.md)
+1. Eftir nýskráningu færðu tölvupóst frá Github þar sem beðið er um staðfestingu (_confirm your email account_) á að þú sért að stofna reikninginn. Með skólapóstfanginu færðu [tölvupósthólf](https://outlook.office.com/mail/) til að geta svarað póstinum. 
+1. Bættu við tölvupóstfanginu í **Profile -> Settings -> Emails** í Github reikningi þínum 
 
 ### Vinnulag og verkefnaskil
 
-1. Í Innu, verkefni 1 skilar þú nafni reikningsins (_Github username_)
+1. Til að Git geti tengst við Github þá verður að skrá Github notandanafnið þitt og tölvupóstfang í [$ git config --global](https://vefgrunnur.github.io/verkefnaskil/git_innsetning.html) 
 1. Þú stofnar verkefnageymslu á Github reikningnum þínum. Það er hægt að vinna verkefni beint í Github geymslunni en það er ekki skynsamlegt.  Best er að afrita verkefnageymsluna yfir á þína tölvu, vinna verkefnin og skila síðan jafnóðum.
 1. [Náðu í geymsluna yfir í þína tölvu](https://vefgrunnur.github.io/verkefnaskil/git_verklag.html)
 1. Opnaðu Visual Studio Code, veldu **"File -> "Open folder"** og vísaðu VSC á Verkefnageymsluna þína 
 1. Núna ertu tilbúinn að vinna í verkefnum áfangans.
+1. Í Innu, verkefni 1 skilar þú nafni reikningsins (_Github username_)
 
 ```
 
@@ -49,7 +47,6 @@ Staðvært umhverfi (local environment) = tölvan þín.
    |___	vef1vg (verkefnageymsla - repository clone)
    
 ```
-
 
 ## Uppsetning vefsíðu á (notandi).github.io  
 
