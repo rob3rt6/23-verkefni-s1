@@ -81,7 +81,7 @@ Nemendur finna texta, ljósmyndir, tónlist og video sem þarf að vinna og skil
 
    * Tónslistarstefna þar sem fjallað um þróun tónlistar eftir tímabilum og listamönnum sem hafa mótað hana
    * Umfjöllun um hljómsveit eða einstakan listamann, ferilskrá, frægð og hversvegna lögin þeirra urðu vinsæl
-   * 
+   * Tilgreindu hvaða efni þú ætlar að vinna með í áfanganum í README skránni sem þú skilar í github.io 
    
    #### Engin á að fjalla um sama efni. 
 
