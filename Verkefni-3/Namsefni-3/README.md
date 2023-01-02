@@ -7,44 +7,20 @@
 * [Semantic HTML5 Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [Moz:lla glósur](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
-# Svegjanleg hönnun
+# The float Property
 
-### Viðmið (_Breakpoints_) - "_Mobile up_"
+The float property is used for positioning and formatting content e.g. let an image float left to the text in a container.
 
-```CSS
-/* Fyrst koma stílar sem gilda í öllum skjástærðum ss. leturtýpa og litir */
-body {
-background-color: lightblue;
-font-family: sans-serif;
-color: white;
-}
+The float property can have one of the following values:
 
-@media only screen and (min-width: 37.5em) {  /* skjáir (screen) sem eru stærri en 37.5em (600px) */
-  body {
-    background-color: blue;
-  }
-}
+- left - The element floats to the left of its container
+- right - The element floats to the right of its container
+- none - The element does not float (will be displayed just where it occurs in the text). This is default
+- inherit - The element inherits the float value of its parent
 
-@media only screen and (min-width: 48em) {  /* skjáir (screen) sem eru stærri en 48em (768px) */
-  body {
-    background-color: green;
-  }
-}
+In its simplest use, the float property can be used to wrap text around images.
 
-@media only screen and (min-width: 60em) {  /* skjáir (screen) sem eru stærri en 60em (960px) */
-  body {
-    background-color: red;
-	max-width: 60em;
-	margin: 0 auto;
-	border: 2px solid yellow;
-  }
-}
+# Flexbox
 
-``` 
+[W3Schools Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
 
-#### Skipulag með CSS grindakerfi
-
-* https://gridbyexample.com/
-* [CSSGRID.IO](https://cssgrid.io/)
-* [Codrops - CSS References](https://tympanus.net/codrops/css_reference/grid/)
-* [Learn CSS Grid](https://scrimba.com/g/gR8PTE)
