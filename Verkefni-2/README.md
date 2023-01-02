@@ -6,16 +6,12 @@ Nemendur eiga að öðlast skilning á hvað HTML ívafsmálið stendur fyrir og
 
 ### Námsmat 12%
 
-- HTML vefsíða 3%
-- CSS stílsíða 3%
-- Box módelið 3%
-- CSS Display 3%
-
-
+- HTML vefsíða 6% 
+- CSS stílsíða 6%
 
 ### Verkefnalýsing
 
-1. Búðu til HTML vefsíðu og settu viðeigandi HTML tög utan um textann sem þú ert búin að finna til úr 1. verkefni. Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.
+1. Búðu til HTML vefsíðu og settu viðeigandi HTML tög utan um textann sem þú ert búin að finna til úr 1. verkefni. Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann. Notaðu texta sem þú ert búin/n að finna. Notaðu viðeigandi tög til að gera textann læsilegan.
 
 ```
 <H1> til <H6>, <p>, <em>, <strong>, <sub>, <sup>, <ul>, <ol>, <li>, <blockqoute>, <br> og <hr> 
