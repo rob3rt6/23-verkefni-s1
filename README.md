@@ -1,7 +1,7 @@
 # Verkefni VEFÞ1VG05A
 
-1. verkefni. [Uppsetning vefþróunarsvæðis](Verkefni-1/README.md)
-1. verkefni. [HTML - CSS og Box módelið](Verkefni-2/README.md)
+1. verkefni. [Uppsetning vefþróunarsvæðis](Verkefni-1/)
+1. verkefni. [HTML - CSS og Box módelið](Verkefni-2/)
 
 Verkefni 3 - 7 eru í vinnslu
 <!--
