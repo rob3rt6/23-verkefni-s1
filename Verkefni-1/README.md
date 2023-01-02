@@ -38,7 +38,7 @@ Nemendur eiga að stofna vefumsjónarkerfi með Visual Studio Code og Github.
 1. Opnaðu Visual Studio Code, veldu **"File -> "Open folder"** og vísaðu VSC á Verkefnageymsluna þína 
 1. Núna ertu tilbúinn að vinna í verkefnum áfangans.
 1. Í Innu, verkefni 1 skilar þú nafni reikningsins (_Github username_)
-1.  
+
 
 ```
 
