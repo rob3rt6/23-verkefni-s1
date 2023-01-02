@@ -23,8 +23,9 @@ Nemendur eiga að öðlast skilning á hvað HTML ívafsmálið stendur fyrir og
 
 ### Námsefni
 
+* [HTML -CSS](Namsefni-2/README.md)
 * [HTML - CSS lesefni](Namsefni-2/HTML-CSS/)
-* [Box módelið](Namsefni-2/README.md)
+* [Box módelið](Namsefni-2/Box-model/)
 
 #### Skil
 
