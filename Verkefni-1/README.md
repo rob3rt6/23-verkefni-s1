@@ -77,9 +77,11 @@ dæmi:
 
 ### Þema: Tónlist
 
-   * Tónslistarumfjöllun er hægt að þætta niður í tónlistarstefnur (genre) og eftir tímabilum
-   * Það er hægt að fjalla um hljómsveit eða einstakan listamann
-   * Nemendur finna texta, ljósmyndir, tónlist og video sem þarf að vinna og skila eftir verkefnalýsingum áfangans. Engin á að fjalla um sama efni. 
+   * Tónslistarstefna þar sem fjalla um þróun tónlistar eftir tímabilum og listamönnum sem hafa mótað stefnuna
+   * Umfjöllun um hljómsveit eða einstakan listamann, ferilskrá, frægð og hvernig vinsæl lög voru samin
+   * Nemendur finna texta, ljósmyndir, tónlist og video sem þarf að vinna og skila eftir verkefnalýsingum áfangans. 
+   
+   #### Engin á að fjalla um sama efni. 
 
 
 <!--
