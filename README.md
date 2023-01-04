@@ -14,8 +14,8 @@
 -->
 ### Verkefnaskil 
  
--  Öllum verkefnum er skilað í eigin Github verkfenageymslu (_repository_), tengil á verkefnin er skilað í Innu.
-- 
+-  Öllum verkefnum er skilað í eigin Github verkfenageymslu (_repository_)
+-  Tengil á verkefnin er skilað í Innu
 
 ---
 
