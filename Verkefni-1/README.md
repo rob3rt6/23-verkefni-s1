@@ -6,11 +6,11 @@
 
 ### Námsmat 12%
 
-- Innsetning forrita 2%
-- Nýskráning Github reiknings 2%
-- Vinnulag og verkefnaskil 2%
-- Uppsetning vefsíðu 2%
-- Efnisval og gagnasöfnun 4%
+- Innsetning forrita 1%
+- Nýskráning Github reiknings 1%
+- Vinnulag og verkefnaskil 1%
+- Uppsetning vefsíðu 1%
+- Efnisval og gagnasöfnun 6%
 ---
 
 ### Innsetning forrita
