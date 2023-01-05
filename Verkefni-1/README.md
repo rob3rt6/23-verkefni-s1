@@ -8,8 +8,8 @@
 
 - Innsetning forrita 1%
 - Nýskráning Github reiknings 1%
-- Vinnulag og verkefnaskil 1%
-- Uppsetning vefsíðu 1%
+- Vinnulag og verkefnaskil 2%
+- Uppsetning vefsíðu 2%
 - Efnisval og gagnasöfnun 6%
 ---
 
