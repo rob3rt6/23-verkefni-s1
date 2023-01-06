@@ -1,7 +1,5 @@
 # Uppsetning HTML vefsíðu 
 
-Þú getur notað textann [verkefni-1-texti](verkefni-1-texti.md) í uppsetningu vefsíðunnar.
-
 ```HTML
 
 <!DOCTYPE html><!-- Nýasta útgáfa HTML. Ef yfilýsingin er ekki tekin fram notar vafrinn 4. útgáfuna -->
