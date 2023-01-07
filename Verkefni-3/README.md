@@ -22,9 +22,9 @@
 
 
 ### Námsefni
-<!--
-* [HTML -CSS](Namsefni-2/README.md)
--->
+
+* [HTML5 semantics](https://github.com/vefgrunnur/23-verkefni-s1/blob/main/Verkefni-3/semantic.html)
+
 #### Skil
 
 Öllum gögnum er skilað í verkefnageymsluna þína í Github. Tengill á verkefnið er skilað í Innu.
