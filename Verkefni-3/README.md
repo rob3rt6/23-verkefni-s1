@@ -23,9 +23,9 @@
 
 ### Námsefni
 
-* [HTML5 semantics](https://github.com/vefgrunnur/23-verkefni-s1/blob/main/Verkefni-3/Namsefni-2/semantic.html)
+* [HTML5 semantics](https://github.com/vefgrunnur/23-verkefni-s1/blob/main/Verkefni-3/Namsefni-3/semantic.html)
 * [Css-tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
-* [gridbyexample](https://gridbyexample.com/examples/)
+* [Gridbyexample](https://gridbyexample.com/examples/)
 #### Skil
 
 Öllum gögnum er skilað í verkefnageymsluna þína í Github. Tengill á verkefnið er skilað í Innu.
