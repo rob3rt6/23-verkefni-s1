@@ -2,12 +2,11 @@
 
 1. verkefni. [Uppsetning vefþróunarsvæðis](Verkefni-1/)
 1. verkefni. [HTML - CSS og Box módelið](Verkefni-2/)
-1. verkefni í vinnslu
+1. verkefni. [Skipulag vefsíðu - Grid](Verkefni-3/)
 
 ### Verkefni 3 - 7 eru í vinnslu
 
 <!--
-1. verkefni. [Skipulag vefsíðu](Verkefni-3/README.md)
 1. verkefni. [Efnisyfirlit og listar](Verkefni-4/README.md)
 1. verkefni. [Myndvinnsla](Verkefni-5/README.md)
 1. verkefni. [Leturfræði](Verkefni-6/README.md)
