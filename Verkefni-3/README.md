@@ -17,14 +17,14 @@
 3.2 Búðu til eina HTML vefsíðu sem þú svo stílar á 3 mismunandi vegu (3 mismunandi layout).  HTML síðan skal hafa haus, valmynd, þriggja dálka miðju og svo fót.  Notaðu tögin hér fyrir neðan til að byggja vefsíðuna upp með réttum hætti.  Efni vefsíðu skal tengjast því efni sem valið var í upphafi annar.  Búðu svo til 3 mismunandi css stílsíður til að fá 3 mismunandi síður hver með sínu layout.  [**Dæmi**](https://github.com/vefgrunnur/23-verkefni-s1/blob/main/Verkefni-3/Namsefni-3/verk3_sd.pdf)
 
 ```
-<header> <nav> <section><main> <article> <aside> <footer> 
+<header> <nav> <section> <main> <article> <aside> <footer> 
 ```
 
 
 ### Námsefni
-
+<!--
 * [HTML -CSS](Namsefni-2/README.md)
-
+-->
 #### Skil
 
 Öllum gögnum er skilað í verkefnageymsluna þína í Github. Tengill á verkefnið er skilað í Innu.
