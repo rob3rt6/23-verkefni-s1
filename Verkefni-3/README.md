@@ -24,6 +24,7 @@
 ### Námsefni
 
 * [HTML5 semantics](https://github.com/vefgrunnur/23-verkefni-s1/blob/main/Verkefni-3/semantic.html)
+* [Css-tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 #### Skil
 
